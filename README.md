@@ -28,3 +28,17 @@ Each object is represented by
 - a label (one of the object types mentioned above)
 
 - a perceived detection difficulty (either 0, meaning not difficult, or 1, meaning difficult)
+
+        Download
+        
+Specfically, you will need to download the following VOC datasets
+
+- 2007 trainval (460MB)
+
+- 2012 trainval (2GB)
+
+- 2007 test (451MB)
+
+Consistent with the paper, the two trainval datasets are to be used for training, while the VOC 2007 test will serve as our validation and testing data.
+
+Make sure you extract both the VOC 2007 trainval and 2007 test data to the same location, i.e. merge them.
