@@ -33,11 +33,11 @@ Each object is represented by
         
 Specfically, you will need to download the following VOC datasets
 
-- 2007 trainval (460MB)
+- 2007 trainval (460MB) http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtrainval_06-Nov-2007.tar
 
-- 2012 trainval (2GB)
+- 2012 trainval (2GB)  http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
 
-- 2007 test (451MB)
+- 2007 test (451MB)  http://host.robots.ox.ac.uk/pascal/VOC/voc2007/VOCtest_06-Nov-2007.tar
 
 Consistent with the paper, the two trainval datasets are to be used for training, while the VOC 2007 test will serve as our validation and testing data.
 
