@@ -13,14 +13,15 @@ They are meant to provide some context, but details are best understood directly
     Dataset
 We will use Pascal Visual Object Classes (VOC) data from the years 2007 and 2012.
 
-Description
+    Description
 
 This data contains images with twenty different types of objects.
-           {'aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog', 'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor'}
+
+         {'aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog', 'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor'}
 
 Each image can contain one or more ground truth objects.
 
-Each object is represented by –
+Each object is represented by
 
 - a bounding box in absolute boundary coordinates
 
