@@ -5,6 +5,7 @@ To build a model that can detect and localize specific objects in images.
 We will be implementing the Single Shot Multibox Detector (SSD), a popular, powerful, and especially nimble network for this task.
 
 #Implementation
+
 The sections below briefly describe the implementation.
 
 They are meant to provide some context, but details are best understood directly from the code, which is quite heavily commented.
